@@ -11,7 +11,9 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface CheckLLDB : NSObject
-
++ (BOOL)method1;
++ (BOOL)method2;
++ (BOOL)method3;
 @end
 
 NS_ASSUME_NONNULL_END
